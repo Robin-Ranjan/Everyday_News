@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.rajeev.everydaynews.app-mergeDebugResources-31:/layout/shimer_layout_card.xml",
+        "source": "com.rajeev.everydaynews.app-main-34:/layout/shimer_layout_card.xml"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-mergeDebugResources-31:/layout/layout_action_bar.xml",
+        "source": "com.rajeev.everydaynews.app-main-34:/layout/layout_action_bar.xml"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-mergeDebugResources-31:/layout/item_news_list.xml",
+        "source": "com.rajeev.everydaynews.app-main-34:/layout/item_news_list.xml"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-mergeDebugResources-31:/layout/shimmer_item_news_list.xml",
+        "source": "com.rajeev.everydaynews.app-main-34:/layout/shimmer_item_news_list.xml"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-mergeDebugResources-31:/layout/activity_article.xml",
+        "source": "com.rajeev.everydaynews.app-main-34:/layout/activity_article.xml"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-mergeDebugResources-31:/layout/shimer_news_card.xml",
+        "source": "com.rajeev.everydaynews.app-main-34:/layout/shimer_news_card.xml"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-mergeDebugResources-31:/layout/activity_main.xml",
+        "source": "com.rajeev.everydaynews.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-mergeDebugResources-31:/layout/item_news_card.xml",
+        "source": "com.rajeev.everydaynews.app-main-34:/layout/item_news_card.xml"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-mergeDebugResources-31:/layout/shimer_layout_list.xml",
+        "source": "com.rajeev.everydaynews.app-main-34:/layout/shimer_layout_list.xml"
+    }
+]

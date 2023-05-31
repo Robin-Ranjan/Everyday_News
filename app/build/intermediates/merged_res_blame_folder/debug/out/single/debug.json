@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "com.rajeev.everydaynews.app-merged_res-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.rajeev.everydaynews.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-merged_res-32:/layout_shimer_layout_card.xml.flat",
+        "source": "com.rajeev.everydaynews.app-main-34:/layout/shimer_layout_card.xml"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.rajeev.everydaynews.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-merged_res-32:/drawable_shape_gradient_trans.xml.flat",
+        "source": "com.rajeev.everydaynews.app-main-34:/drawable/shape_gradient_trans.xml"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-merged_res-32:/layout_activity_article.xml.flat",
+        "source": "com.rajeev.everydaynews.app-main-34:/layout/activity_article.xml"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-merged_res-32:/xml_data_extraction_rules.xml.flat",
+        "source": "com.rajeev.everydaynews.app-main-34:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-merged_res-32:/drawable_layout_list.xml.flat",
+        "source": "com.rajeev.everydaynews.app-main-34:/drawable/layout_list.xml"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-merged_res-32:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.rajeev.everydaynews.app-main-34:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-merged_res-32:/font_notosans_bold.ttf.flat",
+        "source": "com.rajeev.everydaynews.app-main-34:/font/notosans_bold.ttf"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-merged_res-32:/font_vesper_libre_bold.ttf.flat",
+        "source": "com.rajeev.everydaynews.app-main-34:/font/vesper_libre_bold.ttf"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-merged_res-32:/drawable_shape_round_image_bg.xml.flat",
+        "source": "com.rajeev.everydaynews.app-main-34:/drawable/shape_round_image_bg.xml"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-merged_res-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.rajeev.everydaynews.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-merged_res-32:/drawable_twitter.xml.flat",
+        "source": "com.rajeev.everydaynews.app-main-34:/drawable/twitter.xml"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-merged_res-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.rajeev.everydaynews.app-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-merged_res-32:/drawable_shape_image_bg.xml.flat",
+        "source": "com.rajeev.everydaynews.app-main-34:/drawable/shape_image_bg.xml"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-merged_res-32:/drawable_layout_card.xml.flat",
+        "source": "com.rajeev.everydaynews.app-main-34:/drawable/layout_card.xml"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-merged_res-32:/drawable_author_sample.png.flat",
+        "source": "com.rajeev.everydaynews.app-main-34:/drawable/author_sample.png"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-merged_res-32:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.rajeev.everydaynews.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-merged_res-32:/drawable_shape_divider.xml.flat",
+        "source": "com.rajeev.everydaynews.app-main-34:/drawable/shape_divider.xml"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-merged_res-32:/layout_shimer_news_card.xml.flat",
+        "source": "com.rajeev.everydaynews.app-main-34:/layout/shimer_news_card.xml"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-merged_res-32:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.rajeev.everydaynews.app-main-34:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-merged_res-32:/layout_item_news_card.xml.flat",
+        "source": "com.rajeev.everydaynews.app-main-34:/layout/item_news_card.xml"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-merged_res-32:/font_notosans_regular.ttf.flat",
+        "source": "com.rajeev.everydaynews.app-main-34:/font/notosans_regular.ttf"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.rajeev.everydaynews.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-merged_res-32:/drawable_notification.xml.flat",
+        "source": "com.rajeev.everydaynews.app-main-34:/drawable/notification.xml"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-merged_res-32:/layout_shimer_layout_list.xml.flat",
+        "source": "com.rajeev.everydaynews.app-main-34:/layout/shimer_layout_list.xml"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-merged_res-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.rajeev.everydaynews.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-merged_res-32:/layout_item_news_list.xml.flat",
+        "source": "com.rajeev.everydaynews.app-main-34:/layout/item_news_list.xml"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-merged_res-32:/drawable_shape_image_bg_article.xml.flat",
+        "source": "com.rajeev.everydaynews.app-main-34:/drawable/shape_image_bg_article.xml"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-merged_res-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.rajeev.everydaynews.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-merged_res-32:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.rajeev.everydaynews.app-main-34:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-merged_res-32:/drawable_shape_text_round.xml.flat",
+        "source": "com.rajeev.everydaynews.app-main-34:/drawable/shape_text_round.xml"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "com.rajeev.everydaynews.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-merged_res-32:/font_vesper_libre_regular.ttf.flat",
+        "source": "com.rajeev.everydaynews.app-main-34:/font/vesper_libre_regular.ttf"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-merged_res-32:/layout_layout_action_bar.xml.flat",
+        "source": "com.rajeev.everydaynews.app-main-34:/layout/layout_action_bar.xml"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-merged_res-32:/xml_backup_rules.xml.flat",
+        "source": "com.rajeev.everydaynews.app-main-34:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.rajeev.everydaynews.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-merged_res-32:/layout_shimmer_item_news_list.xml.flat",
+        "source": "com.rajeev.everydaynews.app-main-34:/layout/shimmer_item_news_list.xml"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.rajeev.everydaynews.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-merged_res-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.rajeev.everydaynews.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.rajeev.everydaynews.app-merged_res-32:/drawable_sample_post.webp.flat",
+        "source": "com.rajeev.everydaynews.app-main-34:/drawable/sample_post.webp"
+    }
+]
